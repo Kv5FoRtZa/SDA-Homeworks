@@ -1,4 +1,5 @@
-Description
+
+    Description
 
 In this homework, i was required to create a couple structures(a tab, browser and page structure) and then implement a couple of operations with
 those structures.
