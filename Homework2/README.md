@@ -1,4 +1,4 @@
-    Descrition
+    Description
 
   In this homework i was required to create a binary tree and perform a couple operations on said tree. As input, i got a couple nodes with a value and a string attached to them, and i was tasked with making unions betwen said nodes. The given nodes were supposed to remain terminal nodes, and in order to complete the tree, i had to create new nodes that had as value the sum of their direct children valuess, and as string the two child strings concatenated. 
   
